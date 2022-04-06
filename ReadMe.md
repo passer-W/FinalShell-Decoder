@@ -2,7 +2,7 @@
 
 > FinallShell 密码解密GUI工具
 
-解密部分参考https://github.com/jas502n/FinalShellDecodePass，做了图形化显示：
+解密部分参考https://github.com/jas502n/FinalShellDecodePass ，做了图形化显示：
 
 <img src="images/image-20220406151439766.png" alt="image-20220406151439766" style="zoom:50%;" />	
 
